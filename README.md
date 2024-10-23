@@ -28,7 +28,7 @@ Designed and implemented an **Entity Relationship Diagram (ERD)** for a comprehe
 - **Technologies**: Data Modeling, Database Design
 
 ## 📈 ERD Diagram
-![ERD Diagram]![pasted image 0 (1)](https://github.com/user-attachments/assets/a9017b71-c43b-404f-8d09-e62c56cb82ff)
+![pasted image 0 (1)](https://github.com/user-attachments/assets/a9017b71-c43b-404f-8d09-e62c56cb82ff)
 
 
 ## 🚀 Outcome
