@@ -28,7 +28,7 @@ Designed and implemented an **Entity Relationship Diagram (ERD)** for a comprehe
 - **Technologies**: Data Modeling, Database Design
 
 ## 📈 ERD Diagram
-![ERD Diagram](path_to_your_image.png)
+![ERD Diagram]([path_to_your_image.png](https://drive.google.com/file/d/127pUhuJ1ZramYeyTwsF6xLK3_yoWN93v/view))
 
 ## 🚀 Outcome
 By designing this ERD, the data flow between entities is clearly defined, improving database management and system functionality for the restaurant management project.
